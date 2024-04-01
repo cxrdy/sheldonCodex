@@ -1,0 +1,60 @@
+/*  */
+/*  */
+
+body, h1, h2, h3, p, ul, ol {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /*styles */
+  body {
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url('../images/pexels-neosiam-+-685674.jpg');
+  /*   background-color: #ff0808; */
+    background-size: cover;
+    color: #ffffff;
+    line-height: 1.6;
+  }
+  
+  header {
+    background-color: #555;
+    color: #fff;
+    padding: 2rem;
+  }
+  
+  main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+  }
+  
+  h2 {
+    font-size: 1.8em;
+    margin-bottom: 8px;
+  }
+  
+  p {
+    font-size: 1em;
+    margin-bottom: 12px;
+  }
+  
+  ul, ol {
+    margin-left: 20px;
+  }
+  
+  footer {
+    background-color: #f7f7f7;
+    color: #555;
+    text-align: center;
+    padding: 10px 0;
+  }
+  
